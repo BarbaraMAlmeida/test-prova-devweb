@@ -1,0 +1,9 @@
+//Criar a conexão do sevidor (ok)
+
+//Criar o json fixo com as princesas (ok)
+
+//Contruir padrão MVC (ok)
+
+//Fazer a rota de get das princesas (ok)
+
+//Mostrar na tela através do fetch
